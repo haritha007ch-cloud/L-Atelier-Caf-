@@ -1,0 +1,6 @@
+{
+  "name": "L'Atelier Café & Roastery",
+  "description": "Artisanal specialty cafe menu with interactive flavor and drink customization studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
